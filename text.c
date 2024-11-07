@@ -1,1 +1,1 @@
-liga
+ceturtdiena
