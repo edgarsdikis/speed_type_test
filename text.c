@@ -1,2 +1,3 @@
 ceturtdiena
 piektdiena
+Sestdiena
