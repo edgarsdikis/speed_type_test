@@ -1,0 +1,2 @@
+ceturtdiena
+piektdiena
