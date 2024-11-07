@@ -1,1 +1,2 @@
 ceturtdiena
+piektdiena
